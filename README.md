@@ -5,7 +5,11 @@
   <p>Congrats on getting the Arbitrum Airdrop, a lot of our contributors got it just by using this bot, I love to hear that!</p>
   <p>ALL CREDITS GO TO DEFIMASTERD AND HIS BSC SNIPING BOT</p>
   <p align="center">
+</p>
 
+  <p>PancakeX-BSC sniping bot: <a href="https://github.com/mooncryptobot/PancakeX-BSC-BOT-V3.1-WINDOWS">https://github.com/mooncryptobot/PancakeX-BSC-BOT-V3.1-WINDOWS</a></p>
+ 
+</div>
 ## 🚀 Features
 
 - 💌 Auto approve
@@ -29,5 +33,9 @@ Detailed changes for each release:
 #### • Version v2.4 [minor changes] - 3 weeks ago
 #### • Version v3 [global changes, added new functions, log inside the terminal, CROSSCHAIN support] - 1 week ago
 #### • Version v3 [ADDED DARK MODE] - 2 days ago
+#### • Version v3.1 [fixed some bugs] 
+## 🔑 License
+
+[MIT]
 
 
